@@ -4,7 +4,7 @@
 
 </br></br>
 
-## How to Start </br>
+## How to Run </br>
 
 * npm install (Node.js v18.12.0)
 * node app
