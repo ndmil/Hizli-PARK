@@ -1,5 +1,5 @@
  # Hizli PARK
-
+The app that finds the nearest parking lots.
 
 
 </br></br>
